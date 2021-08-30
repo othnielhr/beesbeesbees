@@ -1,5 +1,5 @@
 var Bee = function(age, color, food, job) {
-  Grub.call(this, age, color, food);
+  Grub.call(this, food);
   this.age = 5;
   this.color = 'yellow';
   this.job = 'keep on growing';
